@@ -1,2 +1,2 @@
 # hello-world
-A short description
+I have a cat and a laptop.
